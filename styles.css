@@ -1,0 +1,66 @@
+/* Apply styles to the body element */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the header containing navigation links */
+header {
+  background-color: green;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+/* Style the navigation links */
+header a {
+  text-decoration: none;
+  color: #fff;
+  margin: 0 20px;
+  font-size: 18px;
+}
+
+/* Change the color of links on hover */
+header a:hover {
+  color: #ff6347;
+}
+
+/* Style the h1 heading */
+h1 {
+  margin: 20px 0;
+  color: #333;
+  font-family:sans-serif,Arial;
+}
+
+/* Style the h3 heading */
+h3 {
+  color: #333;
+  text-align: center;
+}
+
+/* Style the images */
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+/* Apply styles to the footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+hr{color:lightblue;
+/* Style to make the <hr> line shorter */
+hr {
+  height: 1px; /* Adjust the height to make it shorter */
+  background-color: #000; /* Optional: Change the line color */
+  margin: 10px 0; /* Optional: Add margin for spacing */
+}
+}
+
+
+
