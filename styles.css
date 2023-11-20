@@ -46,21 +46,7 @@ img {
   margin: 0 auto;
 }
 
-/* Apply styles to the footer */
-footer {
-  background-color: #333;
-  color: #fff;
-  padding: 10px;
-  text-align: center;
-}
-hr{color:lightblue;
-/* Style to make the <hr> line shorter */
-hr {
-  height: 1px; /* Adjust the height to make it shorter */
-  background-color: #000; /* Optional: Change the line color */
-  margin: 10px 0; /* Optional: Add margin for spacing */
-}
-}
+
 
 
 
